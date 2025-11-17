@@ -73,4 +73,4 @@
 
 | Главный экран                                                                 | Экран результатов                                                                |
 | ----------------------------------------------------------------------------- | -------------------------------------------------------------------------------- |
-| ![Главный экран](https://github.com/user-attachments/assets/582c4c5e-8415-49d0-aa66-f3f5d8d24299) | ![Экран результатов](https://github.com/user-attachments/assets/f9e3ae38-e64b-4104-a708-c8c363f9ca3d) |
+| ![Главный экран](https://github.com/user-attachments/assets/6553b49d-4268-48fd-95d2-49b6b1de4bd4) | ![Экран результатов](https://github.com/user-attachments/assets/aa9233f7-71d7-4c94-b7aa-443d1bff1592) |
